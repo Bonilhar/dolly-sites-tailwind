@@ -1,0 +1,27 @@
+.inside-png-tv {
+  max-width: 73%;
+  right: -50%;
+  transform: translate(-50%, -85%);
+  margin-top: -25%;
+}
+
+.inside-png-devices {
+  max-width: 60%;
+  right: -50%;
+  transform: translate(-50%, -125%);
+  margin-top: -25%;
+}
+
+.card-on-picture {
+  width: 100%;
+  min-width: 290px;
+  max-width: 320px;
+
+  right: -50%;
+  transform: translate(-50%, -105%);
+  margin-top: -10%;
+}
+
+.png-max-width {
+  max-width: 620px;
+}
